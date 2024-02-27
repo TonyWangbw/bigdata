@@ -1,0 +1,6 @@
+1,cxk1,152,qingdao,22
+2,cxk2,153,beijing,23
+3,cxk3,154,shanghai,20
+4,cxk4,155,weihai,28
+5,cxk5,156,xian,92
+6,cxk6,157,yantai,26
